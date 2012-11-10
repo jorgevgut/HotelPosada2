@@ -1,0 +1,10 @@
+Testsuite: hotelposada.FacturaTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,881 sec
+------------- Standard Output ---------------
+--Output from testRevisarFactura--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testRevisarFactura--
+------------- ---------------- ---------------
+
+Testcase: testRevisarFactura took 0,864 sec

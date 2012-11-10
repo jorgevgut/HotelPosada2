@@ -1,0 +1,71 @@
+10
+
+dir
+43
+http://subversion.assembla.com/svn/iw2011-hotelposada/trunk/HotelPosada2/target
+http://subversion.assembla.com/svn/iw2011-hotelposada
+
+
+
+2011-06-28T04:34:57.031025Z
+43
+jogeavi914
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ec186bfc-e928-448d-a295-c004987433dd
+
+classes
+dir
+
+stacktrace.log
+file
+
+
+
+
+2012-02-02T16:11:42.650000Z
+0fb94e1d0390dc74cb625337480a7ef6
+2011-06-28T03:07:38.488757Z
+42
+jogeavi914
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10627154
+
+test-classes
+dir
+
+test-reports
+dir
+

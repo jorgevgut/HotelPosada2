@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/test/integration/hotelposada
+END
+CancelarControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/test/integration/hotelposada/CancelarControllerTests.groovy
+END
+RegistroControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/test/integration/hotelposada/RegistroControllerTests.groovy
+END
+AutenticacionTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/test/integration/hotelposada/AutenticacionTests.groovy
+END
+ReservaControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/test/integration/hotelposada/ReservaControllerTests.groovy
+END

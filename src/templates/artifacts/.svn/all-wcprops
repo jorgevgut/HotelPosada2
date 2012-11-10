@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts
+END
+Controller.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/Controller.groovy
+END
+TagLib.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/TagLib.groovy
+END
+Script.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/Script.groovy
+END
+Filters.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/Filters.groovy
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/hibernate.cfg.xml
+END
+WebTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/WebTest.groovy
+END
+Service.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/Service.groovy
+END
+DomainClass.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/DomainClass.groovy
+END
+Tests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iw2011-hotelposada/!svn/ver/32/trunk/HotelPosada2/src/templates/artifacts/Tests.groovy
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="xymind" name="hotelposada.HabitacionesTests" tests="1" time="0.038" timestamp="2011-06-28T03:00:13">
+  <properties />
+  <testcase classname="hotelposada.HabitacionesTests" name="testRevisarHabitaciones" time="0.032" />
+  <system-out><![CDATA[--Output from testRevisarHabitaciones--
+]]></system-out>
+  <system-err><![CDATA[--Output from testRevisarHabitaciones--
+]]></system-err>
+</testsuite>

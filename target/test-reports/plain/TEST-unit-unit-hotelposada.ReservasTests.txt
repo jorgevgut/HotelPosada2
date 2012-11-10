@@ -1,0 +1,10 @@
+Testsuite: hotelposada.ReservasTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,05 sec
+------------- Standard Output ---------------
+--Output from testRevisarReservas--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testRevisarReservas--
+------------- ---------------- ---------------
+
+Testcase: testRevisarReservas took 0,043 sec

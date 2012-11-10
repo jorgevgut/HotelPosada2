@@ -1,0 +1,10 @@
+Testsuite: hotelposada.ParametrosGlobalesTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,042 sec
+------------- Standard Output ---------------
+--Output from testParametros--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testParametros--
+------------- ---------------- ---------------
+
+Testcase: testParametros took 0,039 sec

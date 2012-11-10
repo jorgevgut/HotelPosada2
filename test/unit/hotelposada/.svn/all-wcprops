@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iw2011-hotelposada/!svn/ver/41/trunk/HotelPosada2/test/unit/hotelposada
+END
+UsersTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iw2011-hotelposada/!svn/ver/40/trunk/HotelPosada2/test/unit/hotelposada/UsersTests.groovy
+END
+FacturaTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iw2011-hotelposada/!svn/ver/40/trunk/HotelPosada2/test/unit/hotelposada/FacturaTests.groovy
+END
+ReservasTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iw2011-hotelposada/!svn/ver/40/trunk/HotelPosada2/test/unit/hotelposada/ReservasTests.groovy
+END
+ParametrosGlobalesTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/iw2011-hotelposada/!svn/ver/40/trunk/HotelPosada2/test/unit/hotelposada/ParametrosGlobalesTests.groovy
+END
+MinibarTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iw2011-hotelposada/!svn/ver/40/trunk/HotelPosada2/test/unit/hotelposada/MinibarTests.groovy
+END
+HabitacionesTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/iw2011-hotelposada/!svn/ver/40/trunk/HotelPosada2/test/unit/hotelposada/HabitacionesTests.groovy
+END

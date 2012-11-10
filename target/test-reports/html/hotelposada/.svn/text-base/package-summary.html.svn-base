@@ -1,0 +1,54 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt" xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<link rel="stylesheet" type="text/css" title="Style" href="../stylesheet.css">
+</head>
+<body onload="open('package-frame.html','classListFrame')">
+<h1>Unit Test Results.</h1>
+<table width="100%">
+<tr>
+<td align="left"></td><td align="right">Designed for use with <a href="http://www.junit.org/">JUnit</a> and <a href="http://ant.apache.org/">Ant</a>.</td>
+</tr>
+</table>
+<hr size="1">
+<h3>Package hotelposada</h3>
+<h2>Classes</h2>
+<p>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th width="80%">Name</th><th>Tests</th><th>Errors</th><th>Failures</th><th nowrap>Time(s)</th><th nowrap>Time Stamp</th><th>Host</th>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="0_AutenticacionTests.html">AutenticacionTests</a></td><td><a title="Display all tests" href="0_AutenticacionTests.html">1</a></td><td>0</td><td>0</td><td>0.342</td><td>2011-06-28T03:00:27</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="1_CancelarControllerTests.html">CancelarControllerTests</a></td><td><a title="Display all tests" href="1_CancelarControllerTests.html">2</a></td><td>0</td><td>0</td><td>0.189</td><td>2011-06-28T03:00:27</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="4_FacturaTests.html">FacturaTests</a></td><td><a title="Display all tests" href="4_FacturaTests.html">1</a></td><td>0</td><td>0</td><td>0.881</td><td>2011-06-28T03:00:12</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="5_HabitacionesTests.html">HabitacionesTests</a></td><td><a title="Display all tests" href="5_HabitacionesTests.html">1</a></td><td>0</td><td>0</td><td>0.038</td><td>2011-06-28T03:00:13</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="6_MinibarTests.html">MinibarTests</a></td><td><a title="Display all tests" href="6_MinibarTests.html">1</a></td><td>0</td><td>0</td><td>0.039</td><td>2011-06-28T03:00:13</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="7_ParametrosGlobalesTests.html">ParametrosGlobalesTests</a></td><td><a title="Display all tests" href="7_ParametrosGlobalesTests.html">1</a></td><td>0</td><td>0</td><td>0.042</td><td>2011-06-28T03:00:13</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="2_RegistroControllerTests.html">RegistroControllerTests</a></td><td><a title="Display all tests" href="2_RegistroControllerTests.html">2</a></td><td>0</td><td>0</td><td>0.105</td><td>2011-06-28T03:00:27</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="3_ReservaControllerTests.html">ReservaControllerTests</a></td><td><a title="Display all tests" href="3_ReservaControllerTests.html">2</a></td><td>0</td><td>0</td><td>0.064</td><td>2011-06-28T03:00:27</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="8_ReservasTests.html">ReservasTests</a></td><td><a title="Display all tests" href="8_ReservasTests.html">1</a></td><td>0</td><td>0</td><td>0.050</td><td>2011-06-28T03:00:13</td><td>xymind</td>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="9_UsersTests.html">UsersTests</a></td><td><a title="Display all tests" href="9_UsersTests.html">2</a></td><td>0</td><td>0</td><td>0.370</td><td>2011-06-28T03:00:13</td><td>xymind</td>
+</tr>
+</table>
+</p>
+</body>
+</html>

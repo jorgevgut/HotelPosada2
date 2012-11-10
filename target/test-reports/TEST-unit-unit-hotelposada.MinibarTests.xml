@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="xymind" name="hotelposada.MinibarTests" tests="1" time="0.039" timestamp="2011-06-28T03:00:13">
+  <properties />
+  <testcase classname="hotelposada.MinibarTests" name="testGastosMinibar" time="0.035" />
+  <system-out><![CDATA[--Output from testGastosMinibar--
+]]></system-out>
+  <system-err><![CDATA[--Output from testGastosMinibar--
+]]></system-err>
+</testsuite>

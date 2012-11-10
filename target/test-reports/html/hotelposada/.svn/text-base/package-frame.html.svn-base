@@ -1,0 +1,51 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt" xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>Unit Test Classes: hotelposada</title>
+<link rel="stylesheet" type="text/css" title="Style" href="../stylesheet.css">
+</head>
+<body>
+<table width="100%">
+<tr>
+<td nowrap>
+<h2>
+<a href="package-summary.html" target="classFrame">hotelposada</a>
+</h2>
+</td>
+</tr>
+</table>
+<h2>Classes</h2>
+<table width="100%">
+<tr>
+<td nowrap><a href="0_AutenticacionTests.html" target="classFrame">AutenticacionTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="1_CancelarControllerTests.html" target="classFrame">CancelarControllerTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="4_FacturaTests.html" target="classFrame">FacturaTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="5_HabitacionesTests.html" target="classFrame">HabitacionesTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="6_MinibarTests.html" target="classFrame">MinibarTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="7_ParametrosGlobalesTests.html" target="classFrame">ParametrosGlobalesTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="2_RegistroControllerTests.html" target="classFrame">RegistroControllerTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="3_ReservaControllerTests.html" target="classFrame">ReservaControllerTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="8_ReservasTests.html" target="classFrame">ReservasTests</a></td>
+</tr>
+<tr>
+<td nowrap><a href="9_UsersTests.html" target="classFrame">UsersTests</a></td>
+</tr>
+</table>
+</body>
+</html>

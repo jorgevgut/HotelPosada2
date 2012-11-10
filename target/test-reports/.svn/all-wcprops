@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iw2011-hotelposada/!svn/ver/43/trunk/HotelPosada2/target/test-reports
+END
+TESTS-TestSuites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iw2011-hotelposada/!svn/ver/43/trunk/HotelPosada2/target/test-reports/TESTS-TestSuites.xml
+END
+TEST-unit-unit-hotelposada.ParametrosGlobalesTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/target/test-reports/TEST-unit-unit-hotelposada.ParametrosGlobalesTests.xml
+END
+TEST-unit-unit-hotelposada.ReservasTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/target/test-reports/TEST-unit-unit-hotelposada.ReservasTests.xml
+END
+TEST-unit-unit-hotelposada.MinibarTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/target/test-reports/TEST-unit-unit-hotelposada.MinibarTests.xml
+END
+TEST-unit-unit-hotelposada.FacturaTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/target/test-reports/TEST-unit-unit-hotelposada.FacturaTests.xml
+END
+TEST-unit-unit-hotelposada.UsersTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/target/test-reports/TEST-unit-unit-hotelposada.UsersTests.xml
+END
+TEST-unit-unit-hotelposada.HabitacionesTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/iw2011-hotelposada/!svn/ver/42/trunk/HotelPosada2/target/test-reports/TEST-unit-unit-hotelposada.HabitacionesTests.xml
+END

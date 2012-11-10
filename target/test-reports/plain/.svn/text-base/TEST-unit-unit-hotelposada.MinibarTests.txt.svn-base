@@ -1,0 +1,10 @@
+Testsuite: hotelposada.MinibarTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,039 sec
+------------- Standard Output ---------------
+--Output from testGastosMinibar--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testGastosMinibar--
+------------- ---------------- ---------------
+
+Testcase: testGastosMinibar took 0,035 sec

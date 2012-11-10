@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="xymind" name="hotelposada.ParametrosGlobalesTests" tests="1" time="0.042" timestamp="2011-06-28T03:00:13">
+  <properties />
+  <testcase classname="hotelposada.ParametrosGlobalesTests" name="testParametros" time="0.039" />
+  <system-out><![CDATA[--Output from testParametros--
+]]></system-out>
+  <system-err><![CDATA[--Output from testParametros--
+]]></system-err>
+</testsuite>

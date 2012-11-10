@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="xymind" name="hotelposada.UsersTests" tests="2" time="0.37" timestamp="2011-06-28T03:00:13">
+  <properties />
+  <testcase classname="hotelposada.UsersTests" name="testRevisarUsers" time="0.138" />
+  <testcase classname="hotelposada.UsersTests" name="testValidarConstraintsUser" time="0.228" />
+  <system-out><![CDATA[--Output from testRevisarUsers--
+--Output from testValidarConstraintsUser--
+]]></system-out>
+  <system-err><![CDATA[--Output from testRevisarUsers--
+--Output from testValidarConstraintsUser--
+]]></system-err>
+</testsuite>
